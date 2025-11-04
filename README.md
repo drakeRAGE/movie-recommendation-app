@@ -3,6 +3,8 @@
 
 This is a full-stack Movie Recommendation System powered by OpenAI's GPT-3.5. Users can input natural language queries like "action movies with a strong female lead" and receive intelligent movie suggestions.
 
+<img width="1028" height="796" alt="image" src="https://github.com/user-attachments/assets/5e0f5db5-1a80-4a5a-a90a-48e84b222d5f" />
+
 ## 🧩 Tech Stack
 
 ### Frontend
